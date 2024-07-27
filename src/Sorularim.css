@@ -1,0 +1,13 @@
+.sorularim-container {
+    margin-top: 150px;
+    color: white;
+}
+
+.sorularim-container p {
+    margin-bottom: 10px;
+}
+
+.form-group {
+    color: white;
+    gap: 10px;
+}
